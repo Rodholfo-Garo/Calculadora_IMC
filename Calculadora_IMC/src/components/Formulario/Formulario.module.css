@@ -1,0 +1,19 @@
+.form{
+   display: flex;
+   flex-direction: column;
+   max-width: 560px;
+   width: 100%;   
+}
+
+.title{
+    margin-bottom: 20px;
+}
+
+.campo{
+    margin-bottom: 20px;
+
+}
+
+.btn{
+    background-color: var(--btncolor);
+}
